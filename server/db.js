@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 
 // Replace with your MongoDB Atlas connection string
 const mongoURI =
-  'mongodb+srv://omaraouf:<9Zg49qGwydDLd302>@hrc.frh77sd.mongodb.net/';
+  'mongodb+srv://admin:admin@hrc.frh77sd.mongodb.net/';
 
 const connectToDatabase = () => {
   mongoose
